@@ -1,0 +1,23 @@
+{
+    "backend": "django",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "sqlite",
+    "db_user": "",
+    "dbms": "1",
+    "description": "generated product",
+    "design": "soft-ui-dashboard",
+    "docker": "1",
+    "err_code": 0,
+    "frontend": "",
+    "heroku": "0",
+    "pattern": "mvc",
+    "pro": "0",
+    "task_id": "0ea0c2a4-bb46-4a20-b08f-3e05a9a1a1f9",
+    "task_info": "Upload Sources [0%] - 348 files",
+    "task_output": "0ea0c2a4-bb46-4a20-b08f-3e05a9a1a1f9.zip",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2022-08-03-12-51-16",
+    "task_ts_start": "2022-08-03-12-50-58"
+}
